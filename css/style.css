@@ -41,5 +41,15 @@ body {
   padding:0px 0px 0px 15px;
 }
 .form-check-input {
-  margin: 11px 0px 0px 0px;
+  margin: 6px 0px 0px 0px;
+}
+dl{
+   padding: 0px 0px 0px 9px;
+}
+thead{
+   background-color: black;
+   color:white;
+   }
+h2{
+   margin:0px 0px 20px 0px;
 }
