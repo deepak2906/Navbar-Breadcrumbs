@@ -53,3 +53,15 @@ thead{
 h2{
    margin:0px 0px 20px 0px;
 }
+.h{
+   background-color: orange;
+}
+.navbar>div{
+   margin-left:0px;
+}
+.btn-block{
+   color:black;
+}
+.badge-pill{
+   background-color: grey;
+}
